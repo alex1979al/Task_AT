@@ -14,6 +14,7 @@ public class Oprosnik6 {
         TheMap.put(6,"abc");
         TheMap.put(7,"pzy");
         TheMap.put(8,"pRy");
+        TheMap.put(9,"abc");
 
         TheMap.size();
 
