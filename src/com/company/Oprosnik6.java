@@ -12,7 +12,8 @@ public class Oprosnik6 {
         TheMap.put(4,"abc");
         TheMap.put(5,"oiu");
         TheMap.put(6,"abc");
-        TheMap.put(5,"pzy");
+        TheMap.put(7,"pzy");
+        TheMap.put(8,"pRy");
 
         TheMap.size();
 
@@ -25,6 +26,7 @@ public class Oprosnik6 {
     }
 
     public static void main(String[] args) {
+
         collectionMap();
     }
 
